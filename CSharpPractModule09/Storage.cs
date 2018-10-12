@@ -7,16 +7,22 @@ using System.Threading.Tasks;
 namespace CSharpPractModule09
 {
     public abstract class Storage
-    {
-        public string NameStorage { set; get; }
-        public string ModelStorage { set; get; }
 
+    {
+        protected string NameStorage { set; get; }
+        protected string ModelStorage { set; get; }
+        public Storage(string nameStorage, string modelStorage)
+        {
+            NameStorage = nameStorage;
+            ModelStorage = modelStorage;
+        }
         public double storageCapacity = 0;
 
         public abstract double GetStorageCapacity();
-        public abstract void CopyToStorage();
+        public abstract void CopyToStorage(double info);
         public abstract double GetStorageFreeCapacity();
-        public abstract string GetStorageInfo();
+        public abstract void GetStorageInfo();
+        
 
     }
 }

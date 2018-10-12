@@ -1,0 +1,7 @@
+D:\Source\CSharpPractModule09\CSharpPractModule09\obj\Debug\CSharpPractModule09.csprojAssemblyReference.cache
+D:\Source\CSharpPractModule09\CSharpPractModule09\obj\Debug\CSharpPractModule09.csproj.CoreCompileInputs.cache
+D:\Source\CSharpPractModule09\CSharpPractModule09\bin\Debug\CSharpPractModule09.exe.config
+D:\Source\CSharpPractModule09\CSharpPractModule09\bin\Debug\CSharpPractModule09.exe
+D:\Source\CSharpPractModule09\CSharpPractModule09\bin\Debug\CSharpPractModule09.pdb
+D:\Source\CSharpPractModule09\CSharpPractModule09\obj\Debug\CSharpPractModule09.exe
+D:\Source\CSharpPractModule09\CSharpPractModule09\obj\Debug\CSharpPractModule09.pdb
